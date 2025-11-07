@@ -1,3 +1,8 @@
+![Header](https://raw.githubusercontent.com/danquacquac/danquacquac/main/Dan.png)
+
+
+
+
 # Hi, I'm Dan 
 
 🎓 **Statistics & Data Science Student @ LMU Munich**  
